@@ -88,8 +88,8 @@ aside {
     background-color: #2589bd;
 }
 
-/* Changed to "section" element, removed redundancy */
-section {
+/* Changed to "article" element, removed redundancy */
+article {
     margin-bottom: 32px;
     color: #ffffff;
 }
