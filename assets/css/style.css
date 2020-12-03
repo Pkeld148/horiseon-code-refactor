@@ -27,7 +27,7 @@ h1 .seo {
     color: #d9dcd6;
 }
 
-
+/* Changed to nav element */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,11 +36,12 @@ nav {
     font-size: 20px;
 }
 
-
+/* Changed to nav element */
 nav ul {
     list-style-type: none;
 }
 
+/* Changed to nav element */
 nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -103,7 +104,7 @@ h3 {
     max-width: 150px;
 }
 
-
+/* Changed to section element */
 section {
     margin-bottom: 20px;
     padding: 50px;
