@@ -69,12 +69,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Changed to "main" element */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Changed to "aside" element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +190,7 @@ aside {
     font-size: 36px;
 }
 
+/* Changed to "footer" element */
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +198,7 @@ footer {
     text-align: center;
 }
 
-h3 {
+/* Changed to "h3" */
+h3 { 
     font-size: 20px;
 }
