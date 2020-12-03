@@ -136,9 +136,20 @@ h3 {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* Created class to consolodate float and img classes */
+.article-img-left {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
+
+/* FIX THIS IDIOT
+.article-img-right {
+    max-height: 200px;
+    float: right;
+    margin-left: 25px;
+}
+*/
 
 .online-reputation-management img {
     max-height: 200px;
