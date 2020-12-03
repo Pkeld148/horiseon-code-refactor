@@ -7,7 +7,7 @@ The goal of this project was to refactor the Horiseon webpage to improve its acc
 
 ## Installation
 
-To install, the user will need to navigate and clone the repository found at:
+To install, the user will need to navigate to and clone the repository found at:
 https://github.com/Pkeld148/horiseon-code-refactor
 
 
