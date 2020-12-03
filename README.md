@@ -29,5 +29,6 @@ This site was heavily used to learn the proper utilization of semantic elements.
 
 
 ## License
+https://img.shields.io/github/license/Pkeld148/horiseon-code-refactor?style=plastic
 
 Licensed under the [MIT](https://github.com/Pkeld148/horiseon-code-refactor/blob/main/LICENSE.txt) license.
